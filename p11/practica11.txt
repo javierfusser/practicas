@@ -1,0 +1,17 @@
+El objetivo de esta Actividad es complementar la Práctica 11 a través del uso de jQuery para agregar funcionalidades a la Aplicación Web de gestión de productos y completarla.
+
+INSTRUCCIONES:
+. . . 1. Utiliza el proyecto adjunto y colócalo dentro de tu carpeta "Actividades".
+. . . 2. Con el fin de modificar el texto del botón que dice "Agregar Producto" por "Modificar Producto" cuandos se dé clic sobre algún producto, utiliza el siguiente código y colocalo en lugar correcto dentro de la función de jQuery:  
+$(document).on('click', '.product-item', (e) => {...}
+$('button.btn-primary').text("Modificar Producto");
+. . . 3. Con el fin de modificar el texto del botón que dice "Modificar Producto" por "Agregar Producto" cuandos se envíe la modificación del producto, utiliza el siguiente código y colocalo en lugar correcto dentro de la función de jQuery 
+$('#product-form').submit(e => {...}
+$('button.btn-primary').text("Agregar Producto");
+. . . 4. Elimina elemento <textarea> donde se incrusta el JSON del producto y en su lugar agrega campos de formulario.
+. . . 5. El JSON cargado por defecto ya no será necesario, pero ahora deberás retomar las validaciones de la Práctica 9 para:
+. . . . . . 5.1. Validar cada campo cada vez que el "foco" cambie de campo.
+. . . . . . 5.2. Validar que los campos requeridos no sean vacíos antes de "agregar el producto" a la BD.
+. . . 6. El estatus de la validación para cada campo deberá mostrarse en la barra de estado. Opcionalmente puedes crear una barra estado para cada campo, visible sólo cuando se esté llenando el campo. O alguna otra alternativa que te parezca atractiva.
+. . . 7. Al teclear el nombre del producto, se debe hacer una conexión asíncrona al servidor para validar que el nombre no exista en la BD. En caso de que el nombre del producto ya exista, deberá mostrarse un mensaje alusivo.
+. . . 8. Como último paso retoma tu aplicación Web resultante de la Práctica 11, crea una copia del proyecto y colócalo dentro de tu carpeta "Actividades", y aplica todos los cambios anteriores. 
