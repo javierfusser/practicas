@@ -1,0 +1,15 @@
+Video de Youtube
+
+https://www.youtube.com/watch?v=VGSerlMoIrY&authuser=0
+
+El objetivo de esta Práctica es dar el toque final a la organización de tus clases y generar paquetes o librerías que puedas compartir con colegas y clientes más adelante. Para esto harás uso de la especificación PSR-4 de PHP y el gestor de dependencias Composer (https://getcomposer.org/).
+
+INSTRUCCIONES:
+. . . 1. Si es necesario, vuelve a revisar el video de la clase.
+. . . 2. Revisa el proyecto en PHP adjunto, que ya está programado con clases (resultado de la Actividad 7).
+. . . 3. Revisa el diagrama de clases UML adjunto y realiza las siguientes modificaciones:
+. . . . . . 3.1. Cada clase debe ir en un archivo individual.
+. . . . . . 3.2. Cada archivo debe ir en respectivamente en las carpetas: Create/, Read/, Update/, Delete/.
+. . . 4. Con ayuda de Composer genera el gestor de dependencias basado en la especificación PSR-4.
+. . . 5. Haz uso del archivo autoload.php generado y el respectivo namespace.
+. . . 6. Carga tu trabajo en el repositorio des tus prácticas (GitHub).
