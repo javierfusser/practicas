@@ -1,0 +1,36 @@
+Enlaces de videos
+
+*Desarrollando un servicio web PHP con Slim(instalación +  Hola Mundo Slim)
+https://www.youtube.com/watch?time_continue=4&v=3WBu2FwlcCE&embeds_referring_euri=https%3A%2F%2Fclassroom.google.com%2F&source_ve_path=Mjg2NjY
+
+*Desarrollando un servicio web PHP con Slim (Método POST)
+https://www.youtube.com/watch?time_continue=1&v=oQaJbzBp8kQ&embeds_referring_euri=https%3A%2F%2Fclassroom.google.com%2F&source_ve_path=Mjg2NjY
+
+*Desarrollando un servicio web PHP con Slim(Paso de parámetros)
+https://www.youtube.com/watch?time_continue=2&v=C7_FsVaBAnw&embeds_referring_euri=https%3A%2F%2Fclassroom.google.com%2F&source_ve_path=Mjg2NjY
+
+*Desarrollando un servicio web con Slim(Generando salida JSON)
+https://www.youtube.com/watch?v=9-aJBoD-6AY&embeds_referring_euri=https%3A%2F%2Fclassroom.google.com%2F&source_ve_path=Mjg2NjY
+
+
+
+El objetivo de esta práctica es crear un servicio Web tipo Rest usando el micro-framework Slim, comprobando así la rapidez y facilidad con la que se puede desarrollar un servicio Web de este estilo. Por otro lado, recordar y analizar la diferencia entre los diferentes tipos de métodos HTTP.
+
+Equipo: 2 integrantes
+
+Herramientas complementarias:
+. . . + Gestor de dependencias PHP: https://getcomposer.org/
+. . . + Micro-framework: https://www.slimframework.com/
+. . . + POSTMAN https://www.postman.com/downloads/
+
+ENTREGABLES:
+. . . 1. Capturas de pantalla dentro de documento de evidencias.
+. . . 2. Archivo principal del servicio REST usando Slim v4 (sin comprimir).
+. . . 3. Comentario privado con el nombre de los integrantes.
+. . . 4. URL de repositorio en GitHub con la práctica cargada.
+
+El orden de los video-tutoriales es:
+. . . 1. Desarrollando un servicio web PHP con Slim (Instalación + Hola Mundo Slim)
+. . . 2. Desarrollando un servicio web PHP con Slim (Paso de parámetros)
+. . . 3. Desarrollando un servicio web PHP con Slim (Método POST)
+. . . 4. Desarrollando un servicio web PHP con Slim (Generando salida JSON)
