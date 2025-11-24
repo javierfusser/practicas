@@ -2,6 +2,9 @@ Video de Youtube
 
 https://www.youtube.com/watch?v=VGSerlMoIrY&authuser=0
 
+Autoload de clases con Composer
+https://desarrolloweb.com/articulos/autoload-clases-composer.html
+
 El objetivo de esta Práctica es dar el toque final a la organización de tus clases y generar paquetes o librerías que puedas compartir con colegas y clientes más adelante. Para esto harás uso de la especificación PSR-4 de PHP y el gestor de dependencias Composer (https://getcomposer.org/).
 
 INSTRUCCIONES:
@@ -12,4 +15,5 @@ INSTRUCCIONES:
 . . . . . . 3.2. Cada archivo debe ir en respectivamente en las carpetas: Create/, Read/, Update/, Delete/.
 . . . 4. Con ayuda de Composer genera el gestor de dependencias basado en la especificación PSR-4.
 . . . 5. Haz uso del archivo autoload.php generado y el respectivo namespace.
+
 . . . 6. Carga tu trabajo en el repositorio des tus prácticas (GitHub).
