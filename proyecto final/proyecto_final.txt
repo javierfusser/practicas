@@ -1,0 +1,29 @@
+A esta pregunta debes responder de la siguiente manera:
+. . . 1. Considerar que cada equipo puede estar formado de 2 a 4 integrantes.
+. . . 2. Seleccionar a un REPRESENTANTE de equipo.
+. . . 3. Elegir un NOMBRE de equipo.
+. . . 4. El representante debe responder con el nombre de equipo y el de los integrantes.
+. . . 5. Los INTEGRANTES deberán escribir un punto '.' como respuesta y responder al comentario del representante con las actividades en las que les gustaría participar.
+
+NOMBRE DEL PROYECTO: Dashboardpara la gestión de recursos digitales (archivos de soporte para programadores)
+ACTIVIDADES:
+Propuesta de un Dashboard que permita definir y mostrar un catálogo a los usuarios (administradores).
+Propuesta de la página Web que permita mostrar un catálogo a los usuarios (visitantes o clientes).
+Propuesta de una base de datos que considere las siguientes entidades: USUARIOS, RECURSOS, BITÁCORA DE ACCESO, BITÁCORA DE DESCARGAS*.
+Análisis y diseño del proyecto (maquetado).
+Estructura y marcado (HTML5 o XHTML).
+Creación del formulario (creación y actualización de registros).
+Uso de hojas de estilo (CSS puro, Bootstrap, u cualquier tecnología similar).
+Programación de comunicación asíncrona con AJAX.
+Desarrollo de un signup y de un login (ver video adjunto).
+**Desarrollo de un API Web (REST) usando Composer (funcionamiento del backend - se verá en clase)
+***Al menos 3 graficas que muestren las estadísticas de descarga: tipo de recurso, lenguaje de programación, día de la semana, hora del día, etc. API sugerido Chart.JS (https://www.chartjs.org/)
+Reporte técnico del proyecto (Portada, Introducción, Desarrollo [diagramas], Conclusiones, Bibliografía).
+IMPORTANTE: 
+1. Se debe cubrir el propósito del curso que es usar tecnologías Web, del lado del cliente y del servidor, para crear aplicaciónes Web dinámicas que muestren una comunicación asíncrona con el servidor.
+2. El representante también debe agregar una respuesta a su propio comentario para indicar las actividades en las que le gustaría participar.
+
+OBSERVACIONES:
+. . . *     La bitácora de descargas es opcional.
+. . . **   El desarrollo de un API Web tipo REST se verá en clase.
+. . . *** El uso de 3 gráficas hace que tengan [+10 pts] en la calificación del final del Proyecto, cuya escala es de 1 a 100 pts.
