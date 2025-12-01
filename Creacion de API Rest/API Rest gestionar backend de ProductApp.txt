@@ -1,0 +1,13 @@
+El objetivo de esta Actividad es que agregues una capa de software entre: 
+
+1) las clases en PHP que gestionan el acceso a la base de datos, y 
+2) el código del front-end que realiza llamadas asíncronas al servidor para solicitar, crear, modificar o eliminar datos. 
+
+Esta nueva capa de software estará represtada por un sólo archivo (index.php) que contendrá la implementación de un API Rest, mismo que a su vez utilizará las clares Create, Read, Update y Delete, obtenidas en la Práctica 12.
+
+ENTREGABLES:
+. . . +. Documento plantilla adjunto con evidencias solciitadas.
+. . . +. URL del repositorio público con la carpeta de a09 cargada y commiteada en la rama principal.
+
+MATERIAL EXTRA:
+. . . +. ANEXO con detalles de implementación y fuentes.
