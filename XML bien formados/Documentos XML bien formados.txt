@@ -1,0 +1,14 @@
+El objetivo de esta Actividad es conocer las principales características del estándar XML, posteriormente usar esta información y "oXygen XML-Editor" para construir 2 documentos XML bien formados de acuerdo a las especificaciones del documento adjunto.
+
+INSTRUCCIONES:
+. . . 1. Abre Visal Studio Code e instala la extensión "XML" de RedHat.
+. . . 2. Verifica tener instalada ya la extensión "Open in browser".
+. . . 3. Utiliza Visual Studio Code y las extensiones antes mencionadas para realizar lo que indica esta actividad.
+
+ENTREGABLES:
+. . . 1. Documento plantilla adjunto con evidencias.
+. . . 2. Archivos XML bien formados (serviciovod1.xml, serviciovod2.xml) SIN comprimir.
+
+NOTA: se adjunta otro editor de nombre OxygenXML pero ese lo instalaremos más adelante y sólo en tu computadora (no en la boratorio).
+
+Password: 12345678a
