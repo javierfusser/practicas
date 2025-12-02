@@ -11,4 +11,8 @@ ENTREGABLES:
 
 NOTA: se adjunta otro editor de nombre OxygenXML pero ese lo instalaremos más adelante y sólo en tu computadora (no en la boratorio).
 
+ENLACE DESCARGA DROPBOX
+https://www.dropbox.com/scl/fi/2azqka0r248v66aq76ja3/Oxygen_XML-Editor_21.0.rar?rlkey=5sxjn3h84cbqpcgacu3t4skxy&st=k42drof9&dl=0
+
+
 Password: 12345678a
